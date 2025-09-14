@@ -8,6 +8,17 @@
   - `labels/train` and `labels/val` containing corresponding annotation files in YOLO `.txt` format.
 - The dataset config file (`data.yaml`) specifies paths and class names.
 
+### Download Instructions
+
+The dataset is not included in this repository due to size constraints.
+
+You can download the Microsoft COCO 2017 object detection dataset subset from Roboflow Public here:
+
+[Microsoft COCO Dataset on Roboflow Public](https://public.roboflow.com/object-detection/microsoft-coco-subset)
+
+After downloading, organize the dataset folders (`images/train`, `images/val`, `labels/train`, `labels/val`) as described above.
+
+
 ## Preprocessing
 
 - No custom preprocessing applied beyond Roboflow’s standardized formatting.
