@@ -10,13 +10,13 @@
 
 ### Download Instructions
 
-The dataset is not included in this repository due to size constraints.
+- The dataset is not included in this repository due to size constraints.
 
-You can download the Microsoft COCO 2017 object detection dataset subset from Roboflow Public here:
+- You can download the Microsoft COCO 2017 object detection dataset subset from Roboflow Public here:
 
 [Microsoft COCO Dataset on Roboflow Public](https://public.roboflow.com/object-detection/microsoft-coco-subset)
 
-After downloading, organize the dataset folders (`images/train`, `images/val`, `labels/train`, `labels/val`) as described above.
+- After downloading, organize the dataset folders (`images/train`, `images/val`, `labels/train`, `labels/val`) as described above.
 
 
 ## Preprocessing
